@@ -532,11 +532,7 @@ netlify deploy --prod
 
 ## 📧 Contact
 
-**Sagar P**
-- Email: sagarp.22cs@saividya.ac.in
-- LinkedIn: [linkedin.com/in/sagar-p-526238330](https://linkedin.com/in/sagar-p-526238330/)
-- GitHub: [github.com/sagar-p-mtr](https://github.com/sagar-p-mtr)
-- Location: Bengaluru, India
+
 
 ---
 
